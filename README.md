@@ -1,2 +1,2 @@
 # fastApiProject
-fastApi con websockets para interaccion entre front react + postgreSQL database
+fastApi with websockets for interaction between react front + postgreSQL database
